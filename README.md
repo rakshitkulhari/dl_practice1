@@ -21,5 +21,7 @@
 ### .gitignore folder (to ignore specfic file and folders)
  ### conda create -p myenv python==3.9
  ### git clone "github file link"
+### adding file without pull
+
  
 
